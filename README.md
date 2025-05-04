@@ -1,4 +1,4 @@
-# openvpn
+# wireguard
 
 > 安装方法
 
